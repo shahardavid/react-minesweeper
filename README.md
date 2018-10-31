@@ -4,6 +4,7 @@ A React version of the Minesweeper game.
 
 ## Demo
 [Demo](https://shahardav.github.io/react-minesweeper/)
+<br/>
 ![](react-minesweeper-demo.gif)
 
 ## Development
