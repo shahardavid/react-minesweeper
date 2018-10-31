@@ -15,7 +15,7 @@ $ npm install
 $ npm start
 ```
 
-## Running the tests
+## Running tests
 
 ```
 $ cd react-minesweeper
