@@ -6,8 +6,13 @@
     "react-scripts": "2.0.5"
   },
   "dependencies": {
+    "@material-ui/core": "^3.3.2",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
     "react": "^16.6.0",
-    "react-dom": "^16.6.0"
+    "react-dom": "^16.6.0",
+    "react-test-renderer": "^16.6.0",
+    "styled-components": "^4.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
